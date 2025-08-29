@@ -41,7 +41,8 @@ LANGUAGES = {
     "Marathi": {"name": "मराठी", "contributors": 76, "hours": 134.7},
     "Gujarati": {"name": "ગુજરાતી", "contributors": 65, "hours": 112.4},
     "Kannada": {"name": "ಕನ್ನಡ", "contributors": 54, "hours": 98.6},
-    "Malayalam": {"name": "മലയാളം", "contributors": 43, "hours": 87.3}
+    "Malayalam": {"name": "മലയാളം", "contributors": 43, "hours": 87.3},
+    "English": {"name": "English", "contributors": 0, "hours": 0}
 }
 
 def render_home():
